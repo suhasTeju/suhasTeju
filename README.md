@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋, its me
 
-**suhasTeju/suhasTeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**suhasTeju/suhasTeju** 
 
 - 🔭 I’m currently working in Full throttle labs
 - 🌱 I’m currently learning React Native
