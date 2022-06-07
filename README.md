@@ -4,11 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at  Advanced Structures India
-- 🌱 I’m currently learning  React Native
-- 🤔 I’m looking for help with finding job in full stack development field
-- 💬 Ask me about Full stack development in Python django backend and react/vue frontend with typescript 
-- 📫 How to reach me: Mail me on suhasteju84@gmail.com or reachout to my linkedin profile
+- 🔭 I’m currently working in Full throttle labs
+- 🌱 I’m currently learning React Native
+- 💬 Ask me about Full stack development in Python Django backend and react/Vue frontend with typescript
+- 📫 How to reach me: Mail me at suhasteju84@gmail.com or reach out to my LinkedIn profile
 - 😄 Pronouns: suhas r
-- ⚡ Fun fact: Ill code when im boared, when im sad and when im happy
-
+- ⚡ Fun fact: I'll code when I'm bored, when I'm sad and when I'm happy
