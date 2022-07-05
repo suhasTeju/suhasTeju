@@ -7,4 +7,4 @@
 - 💬 Ask me about Full stack development in Python Django backend and react/Vue frontend with typescript
 - 📫 How to reach me: Mail me at suhasteju84@gmail.com or reach out to my LinkedIn profile
 - 😄 Pronouns: suhas r
-- ⚡ Fun fact: I'll code when I'm bored, when I'm sad and when I'm happy
+- ⚡ Fun fact: I'll code whenever i get boared, happy or sad
