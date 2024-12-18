@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,typescript,vue,graphql,aws,git,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,typescript,vue,graphql,aws,azure,git,html,css" alt="Tech Stack" />
 </p>
 
 ---
