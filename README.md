@@ -1,25 +1,66 @@
 # Hi there! 👋 I'm Suhas, a seasoned full-stack developer.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Code Animation">
+</p>
+
 ## About Me
-I'm a passionate full-stack developer with over 3 years of hands-on experience, specializing in Python Django backend and React.js frontend solutions. My commitment to delivering high-quality, scalable, and efficient solutions is unwavering.
+🚀 I'm a passionate **full-stack developer** with over 4.5 years of experience in building **scalable, efficient, and user-friendly applications**. My superpower? Turning complex requirements into seamless solutions powered by **Python Django** and **React.js**.
 
-## My Expertise
-- **Full Stack Development**: Proficient in crafting end-to-end solutions with Python Django for the backend and React.js for the frontend, along with expertise in Vue.js and TypeScript.
-- **Applicant Tracking System (ATS) Application**: Played a pivotal role in streamlining and optimizing recruitment processes through the development of an ATS application.
-- **Plum Goodness Website**: Drove the complete backend development of the Plum Goodness website, now live and thriving, serving a wide audience.
-- **Government Collaboration**: Privileged to collaborate with the Karnataka government on a cutting-edge zoo management application, actively utilized by various zoos in the region.
-- **VFX Startup**: Contributed a year of expertise to a US-based VFX startup, integral to major VFX companies like TraceVFX, with a client portfolio including Netflix and Amazon.
+---
 
-## Current Work
-- **Employer**: Full Throttle Labs
-- **Learning**: React Native
+## 💻 Tech Stack 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,typescript,vue,graphql,aws,git,html,css" alt="Tech Stack" />
+</p>
 
-## Let's Connect!
-- **LinkedIn**: [suhasTeju](https://www.linkedin.com/in/suhas-r-11723714a/)
-- **Email**: suhasteju84@gmail.com
+---
 
-## Fun Facts
-- I code whenever I'm bored, happy, or sad. It's my go-to activity for all occasions!
+## 🌟 Highlights of My Journey
+- **Key Projects**:
+  - 🧑‍💼 **Applicant Tracking System (PyjamaHR)**: Enhanced hiring workflows with smooth user journeys and core module optimizations.
+  - 🌐 **Plum Goodness Website**: Engineered the backend for a thriving e-commerce platform.
+  - 🐾 **Zoo Management Application**: Worked with the Karnataka Government to streamline zoo operations with a scalable solution.
+  - 🎥 **VFX Tool Application**: Developed tools for a US-based startup serving **Netflix** and **Amazon**.
+  - 🚗 **Automotive Benchmarking Tools**: Automated manual processes, reducing effort through SaaS products.
 
-## Reach Out
-If you have exciting opportunities that align with my skill set, I'd love to connect and discuss potential collaborations. Let's create exceptional solutions together!
+- **Achievements**:
+  - 🏆 Finalist in **Airbus Aerothon 2.0 Coding Hackathon**.
+  - 💼 Certified in **Python**, **Django**, **React.js**, **Vue.js**, **AWS**, and more.
+
+---
+
+## 🔧 Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasTeju&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+🌟 Expanding my expertise in **React Native** for cross-platform mobile application development.
+
+---
+
+## 💬 Fun Facts
+- Coding is my happy place—whether I’m bored, sad, or excited, you’ll find me coding!  
+- I balance tech with a refreshing swim in my free time. 🏊
+
+---
+
+## 🌐 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/suhas-r-11723714a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:suhasrdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/suhasTeju">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="300" alt="Developer at work">
+</p>
