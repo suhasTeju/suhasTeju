@@ -1,8 +1,9 @@
-# Hi there! 👋 I'm Suhas, a seasoned full-stack developer.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Code Animation">
+<p >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&width=700&lines=Hi%2C+I'm+Suhas+%F0%9F%91%8B;Full-stack+developer+%7C+Django+%7C+React.js;Building+scalable+solutions+since+2019!" alt="Typing SVG">
 </p>
+
+---
 
 ## About Me
 🚀 I'm a passionate **full-stack developer** with over 4.5 years of experience in building **scalable, efficient, and user-friendly applications**. My superpower? Turning complex requirements into seamless solutions powered by **Python Django** and **React.js**.
