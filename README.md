@@ -38,10 +38,7 @@
 
 ---
 
-## 🌱 Currently Learning
-🌟 Expanding my expertise in **React Native** for cross-platform mobile application development.
 
----
 
 ## 💬 Fun Facts
 - Coding is my happy place—whether I’m bored, sad, or excited, you’ll find me coding!  
