@@ -78,24 +78,32 @@ I specialize in combining **robust backend engineering** with **modern AI archit
 ## 🧩 Open Source Contributions
 
 ### 📦 pdfjs-reader-core
+
+[![npm version](https://img.shields.io/npm/v/pdfjs-reader-core?style=flat-square)](https://www.npmjs.com/package/pdfjs-reader-core)
+[![npm downloads (weekly)](https://img.shields.io/npm/dw/pdfjs-reader-core?style=flat-square)](https://www.npmjs.com/package/pdfjs-reader-core)
+[![GitHub stars](https://img.shields.io/github/stars/suhasTeju/pdf-reader-js?style=flat-square)](https://github.com/suhasTeju/pdf-reader-js/stargazers)
+[![License](https://img.shields.io/github/license/suhasTeju/pdf-reader-js?style=flat-square)](https://github.com/suhasTeju/pdf-reader-js/blob/main/LICENSE)
+
 🔗 **NPM**: https://www.npmjs.com/package/pdfjs-reader-core  
 🔗 **GitHub**: https://github.com/suhasTeju/pdf-reader-js  
 
-An open-source **core PDF reading and parsing library** built on top of **PDF.js**, designed to abstract low-level PDF handling into a clean, reusable module.
+An open-source **core PDF reading and parsing library** built on top of **PDF.js**, designed to abstract low-level PDF handling into a clean, reusable, production-ready API.
 
-**Highlights:**
-- 📄 Simplifies PDF.js integrations
-- 🧩 Enables custom PDF viewers & document workflows
-- ⚡ Framework-agnostic (React, Vue, Vanilla JS)
-- 🌍 Published & maintained on NPM
+### Highlights
+- ✅ Production-grade canvas rendering & text extraction (powered by PDF.js)
+- ✅ Custom APIs for programmatic annotations, highlights, and full-text search
+- ✅ Framework-agnostic core (React / Vue / Vanilla JS / headless usage)
+- ✅ End-to-end demo included (Next.js viewer + reusable API examples)
 
-<p>
-  <img src="https://img.shields.io/npm/v/pdfjs-reader-core?style=flat-square" />
-  <img src="https://img.shields.io/npm/dw/pdfjs-reader-core?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/suhasTeju/pdf-reader-js?style=flat-square" />
-  <img src="https://img.shields.io/github/license/suhasTeju/pdf-reader-js?style=flat-square" />
-</p>
+### Why it matters
+`pdfjs-reader-core` removes repetitive PDF plumbing so developers can focus on building features like document viewers, annotation systems, search, and AI-powered workflows without reinventing PDF infrastructure.
 
+### Quick install
+```bash
+npm install pdfjs-reader-core
+# or
+pnpm add pdfjs-reader-core
+```
 ---
 
 ## 🤖 AI, Agents & Intelligent Systems
