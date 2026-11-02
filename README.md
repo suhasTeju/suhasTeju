@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Suhas;I+build+AI+products+end+to+end;One+engineer%2C+whole+product;Fine-tuned+small+models+beat+big+API+bills" alt="Suhas R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Suhas;I+build+AI+products+end+to+end" alt="Suhas R" />
 </p>
 
 <p align="center">
