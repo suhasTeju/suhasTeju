@@ -18,76 +18,73 @@ I build AI products end to end and ship them alone at the pace of a team. Seven 
 
 ### Agentic layer
 
-<p align="center"><sub><b>Models, routed by task and cost</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI%20GPT--5%20/%20GPT--6-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama%20Cloud-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" />
-  <img src="https://img.shields.io/badge/gpt--oss%20·%20GLM%20·%20DeepSeek%20·%20MiniMax-444444?style=for-the-badge" />
-</p>
+<h4 align="center">Models, routed by task and cost</h4>
+<table align="center"><tr>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/openai.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="OpenAI" /><br /><sub><b>OpenAI</b></sub><br /><sub>GPT-5 · GPT-6</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/anthropic.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Anthropic" /><br /><sub><b>Anthropic</b></sub><br /><sub>Claude</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/aws.amazon.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="AWS Bedrock" /><br /><sub><b>AWS Bedrock</b></sub><br /><sub>gpt-oss · GLM · MiniMax</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/ollama.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Ollama Cloud" /><br /><sub><b>Ollama Cloud</b></sub><br /><sub>DeepSeek · Gemini</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/mistral.ai?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Mistral" /><br /><sub><b>Mistral</b></sub><br /><sub>Magistral · OCR</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/huggingface.co?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Open weights" /><br /><sub><b>Open weights</b></sub><br /><sub>fine-tuned 0.8B</sub></td>
+</tr></table>
 
-<p align="center"><sub><b>Agents</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool--calling%20agents%20·%2070+%20tools-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Planning%20+%20guardrails-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proactive%20nudge%20+%20monitoring-1F6FEB?style=for-the-badge" />
-</p>
+<h4 align="center">Agents</h4>
+<p align="center"><sub>Tool-calling agents with planning, guardrails and memory. Proactive agents nudge students, triage errors and answer support.</sub></p>
+<table align="center"><tr>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/telegram.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Telegram" /><br /><sub><b>Telegram</b></sub><br /><sub>study agent, 70+ tools</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/whatsapp.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="WhatsApp" /><br /><sub><b>WhatsApp</b></sub><br /><sub>same agent</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/anthropic.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Claude Code" /><br /><sub><b>Claude Code</b></sub><br /><sub>builds and reviews</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/openai.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Codex CLI" /><br /><sub><b>Codex CLI</b></sub><br /><sub>images · reels · board</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/posthog.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="PostHog" /><br /><sub><b>PostHog</b></sub><br /><sub>agents watch errors</sub></td>
+</tr></table>
 
-<p align="center"><sub><b>Retrieval</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightRAG%20knowledge%20graphs-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cohere%20rerank-39594D?style=for-the-badge&logo=cohere&logoColor=white" />
-  <img src="https://img.shields.io/badge/HyDE%20+%20multi--query-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mistral%20OCR-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" />
-</p>
+<h4 align="center">Retrieval and voice</h4>
+<p align="center"><sub>LightRAG knowledge graphs, HyDE and multi-query retrieval over textbooks. Sub-second voice turn-taking in production.</sub></p>
+<table align="center"><tr>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/qdrant.tech?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Qdrant" /><br /><sub><b>Qdrant</b></sub><br /><sub>vectors</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/cohere.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Cohere" /><br /><sub><b>Cohere</b></sub><br /><sub>rerank</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/deepgram.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Deepgram" /><br /><sub><b>Deepgram</b></sub><br /><sub>Voice Agent · Nova-3 · Aura-2</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/sarvam.ai?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Sarvam" /><br /><sub><b>Sarvam</b></sub><br /><sub>Bulbul · Saaras, Indian languages</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/elevenlabs.io?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="ElevenLabs" /><br /><sub><b>ElevenLabs</b></sub><br /><sub>English voice</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/promptlayer.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="PromptLayer" /><br /><sub><b>PromptLayer</b></sub><br /><sub>prompts + evals</sub></td>
+</tr></table>
 
-<p align="center"><sub><b>Voice</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Deepgram%20Voice%20Agent-13EF93?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flux%20·%20Nova--3%20·%20Aura--2-13EF93?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sarvam%20Bulbul%20·%20Saaras-E11D48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
-</p>
-
-<p align="center"><sub><b>Generation</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM--written%20scripts-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agent--driven%20board%20drawing-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ManimGL-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SoulX%20FlashHead%20lip--sync-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OmniVoice-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NVIDIA%20L4%20·%20L40S-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align="center"><sub><b>Small models and ops</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Fine--tuned%200.8B%20models-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Self--hosted%20inference-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PromptLayer-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Per--call%20cost%20telemetry-F59E0B?style=for-the-badge" />
-</p>
-
-<p align="center"><sub><b>Building with agents</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex%20CLI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agents%20run%20support%20·%20monitoring%20·%20code%20review-444444?style=for-the-badge" />
-</p>
+<h4 align="center">Generation and inference</h4>
+<p align="center"><sub>LLM-written lecture scripts, agent-driven board drawing, self-hosted lip-sync and voice models on rented GPUs. Per-call cost telemetry on every model call.</sub></p>
+<table align="center"><tr>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/nvidia.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="NVIDIA L4 · L40S" /><br /><sub><b>NVIDIA L4 · L40S</b></sub><br /><sub>self-hosted inference</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/pytorch.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="PyTorch" /><br /><sub><b>PyTorch</b></sub><br /><sub>fine-tuning</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/huggingface.co?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="SoulX FlashHead" /><br /><sub><b>SoulX FlashHead</b></sub><br /><sub>lip-sync avatars</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/python.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="ManimGL" /><br /><sub><b>ManimGL</b></sub><br /><sub>animations</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/apple.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="App Store" /><br /><sub><b>App Store</b></sub><br /><sub>StoreKit, server-side verify</sub></td>
+</tr></table>
 
 ### Frameworks underneath
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,swift,django,fastapi,nodejs,react,nextjs,tailwind,postgres,redis,aws,gcp,azure,docker,git&perline=8" />
-</p>
+<h4 align="center"></h4>
+<table align="center"><tr>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/python.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Python" /><br /><sub><b>Python</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/typescriptlang.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/swift.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Swift" /><br /><sub><b>Swift</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/djangoproject.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Django" /><br /><sub><b>Django</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/fastapi.tiangolo.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/celeryq.dev?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Celery" /><br /><sub><b>Celery</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/nextjs.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/react.dev?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="React" /><br /><sub><b>React</b></sub></td>
+</tr></table>
 
-Django, FastAPI and Celery on the backend · Next.js and React on the web · SwiftUI with StoreKit on iOS · Postgres, Redis, Qdrant · ECS Fargate, S3 and CloudFront on AWS, with GCP and Azure before that · Razorpay and Apple in-app purchase for payments
+<h4 align="center"></h4>
+<table align="center"><tr>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/postgresql.org?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Postgres" /><br /><sub><b>Postgres</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/redis.io?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Redis" /><br /><sub><b>Redis</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/aws.amazon.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="AWS" /><br /><sub><b>AWS</b></sub><br /><sub>ECS Fargate · S3 · CloudFront</sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/docker.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/razorpay.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Razorpay" /><br /><sub><b>Razorpay</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/apple.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="SwiftUI · StoreKit" /><br /><sub><b>SwiftUI · StoreKit</b></sub></td>
+<td align="center" valign="top" width="110"><img src="https://img.logo.dev/posthog.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="PostHog" /><br /><sub><b>PostHog</b></sub><br /><sub>analytics</sub></td>
+</tr></table>
+
+<p align="center"><sub>Logos by <a href="https://logo.dev">Logo.dev</a></sub></p>
 
 ---
 
