@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>7 years building software</b> &nbsp;·&nbsp; <b>Full-stack and AI, end to end</b> &nbsp;·&nbsp; <b>Led 12 engineers</b>
+  <b>7 years building software</b> &nbsp;·&nbsp; <b>Full-stack and AI, end to end</b> &nbsp;·&nbsp; <b>Worked as software lead</b>
 </p>
 
 ---
@@ -152,8 +152,8 @@ One engineer, whole product. On a typical project I own the Django or FastAPI ba
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>👥 Led 12 engineers</h3>
-      Ran a team of twelve at an earlier company, shipping products for clients from VFX studios to automotive brands.
+      <h3>👥 Software lead</h3>
+      Software lead at an earlier company, running a team of twelve engineers shipping products for clients from VFX studios to automotive brands.
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ Built for real clients</h3>
