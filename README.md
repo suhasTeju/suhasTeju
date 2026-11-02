@@ -18,16 +18,68 @@ I build AI products end to end and ship them alone at the pace of a team. Seven 
 
 ### Agentic layer
 
-| | |
-|---|---|
-| **Models** | OpenAI GPT-5 and GPT-6 family, Anthropic Claude, open-weight models (gpt-oss, GLM, DeepSeek, MiniMax, Mistral) through AWS Bedrock and Ollama Cloud, routed by task and cost with fallback chains |
-| **Agents** | Tool-calling agents with planning, guardrails and memory; a Telegram and WhatsApp study agent with 70+ tools; proactive agents that nudge, monitor and triage |
-| **Retrieval** | Qdrant, LightRAG knowledge graphs, Cohere rerank, HyDE and multi-query retrieval over textbooks and PDFs; Mistral OCR for ingestion |
-| **Voice** | Deepgram Voice Agent (Flux, Nova-3, Aura-2), Sarvam Bulbul and Saaras for Indian languages, ElevenLabs; sub-second turn-taking in production |
-| **Generation** | Lecture and animation pipelines: LLM-written scripts, agent-driven board drawing, ManimGL, self-hosted lip-sync (SoulX FlashHead) and voice (OmniVoice) on L4 and L40S GPUs |
-| **Small models** | Fine-tuned 0.8B models replacing API calls; self-hosted inference where it beats the bill |
-| **Ops** | Per-call cost and token telemetry, PromptLayer, PostHog, prompt-injection defence with server-side agent configs |
-| **Building with agents** | Claude Code and Codex CLI for daily development; agents run support, monitoring and code review |
+<p align="center"><sub><b>Models, routed by task and cost</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20GPT--5%20/%20GPT--6-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama%20Cloud-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" />
+  <img src="https://img.shields.io/badge/gpt--oss%20·%20GLM%20·%20DeepSeek%20·%20MiniMax-444444?style=for-the-badge" />
+</p>
+
+<p align="center"><sub><b>Agents</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool--calling%20agents%20·%2070+%20tools-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Planning%20+%20guardrails-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proactive%20nudge%20+%20monitoring-1F6FEB?style=for-the-badge" />
+</p>
+
+<p align="center"><sub><b>Retrieval</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightRAG%20knowledge%20graphs-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cohere%20rerank-39594D?style=for-the-badge&logo=cohere&logoColor=white" />
+  <img src="https://img.shields.io/badge/HyDE%20+%20multi--query-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mistral%20OCR-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" />
+</p>
+
+<p align="center"><sub><b>Voice</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deepgram%20Voice%20Agent-13EF93?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flux%20·%20Nova--3%20·%20Aura--2-13EF93?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sarvam%20Bulbul%20·%20Saaras-E11D48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
+</p>
+
+<p align="center"><sub><b>Generation</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM--written%20scripts-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agent--driven%20board%20drawing-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ManimGL-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SoulX%20FlashHead%20lip--sync-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OmniVoice-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVIDIA%20L4%20·%20L40S-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+<p align="center"><sub><b>Small models and ops</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fine--tuned%200.8B%20models-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Self--hosted%20inference-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PromptLayer-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Per--call%20cost%20telemetry-F59E0B?style=for-the-badge" />
+</p>
+
+<p align="center"><sub><b>Building with agents</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex%20CLI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agents%20run%20support%20·%20monitoring%20·%20code%20review-444444?style=for-the-badge" />
+</p>
 
 ### Frameworks underneath
 
