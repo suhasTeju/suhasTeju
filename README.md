@@ -16,21 +16,26 @@ I build AI products end to end and ship them alone at the pace of a team. Seven 
 
 ## Stack
 
+### Agentic layer
+
+| | |
+|---|---|
+| **Models** | OpenAI GPT-5 and GPT-6 family, Anthropic Claude, open-weight models (gpt-oss, GLM, DeepSeek, MiniMax, Mistral) through AWS Bedrock and Ollama Cloud, routed by task and cost with fallback chains |
+| **Agents** | Tool-calling agents with planning, guardrails and memory; a Telegram and WhatsApp study agent with 70+ tools; proactive agents that nudge, monitor and triage |
+| **Retrieval** | Qdrant, LightRAG knowledge graphs, Cohere rerank, HyDE and multi-query retrieval over textbooks and PDFs; Mistral OCR for ingestion |
+| **Voice** | Deepgram Voice Agent (Flux, Nova-3, Aura-2), Sarvam Bulbul and Saaras for Indian languages, ElevenLabs; sub-second turn-taking in production |
+| **Generation** | Lecture and animation pipelines: LLM-written scripts, agent-driven board drawing, ManimGL, self-hosted lip-sync (SoulX FlashHead) and voice (OmniVoice) on L4 and L40S GPUs |
+| **Small models** | Fine-tuned 0.8B models replacing API calls; self-hosted inference where it beats the bill |
+| **Ops** | Per-call cost and token telemetry, PromptLayer, PostHog, prompt-injection defence with server-side agent configs |
+| **Building with agents** | Claude Code and Codex CLI for daily development; agents run support, monitoring and code review |
+
+### Frameworks underneath
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,swift,django,fastapi,nodejs,react,nextjs,tailwind,postgres,redis,aws,gcp,azure,docker,git&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Anthropic%20%7C%20Bedrock-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-Qdrant%20%7C%20Cohere%20rerank%20%7C%20LightRAG-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Voice-Deepgram%20%7C%20Sarvam%20%7C%20ElevenLabs-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fine--tuning-small%20models%20in%20prod-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dev-Claude%20Code%20%7C%20Codex-orange?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasTeju&layout=compact&theme=radical&hide_border=true" />
-</p>
+Django, FastAPI and Celery on the backend · Next.js and React on the web · SwiftUI with StoreKit on iOS · Postgres, Redis, Qdrant · ECS Fargate, S3 and CloudFront on AWS, with GCP and Azure before that · Razorpay and Apple in-app purchase for payments
 
 ---
 
