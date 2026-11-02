@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>7 years building software</b> &nbsp;·&nbsp; <b>Built a $1M+ ARR AI product</b> &nbsp;·&nbsp; <b>Cut an LLM bill by 90%</b> &nbsp;·&nbsp; <b>Led 12 engineers</b>
+  <b>7 years building software</b> &nbsp;·&nbsp; <b>Full-stack and AI, end to end</b> &nbsp;·&nbsp; <b>Led 12 engineers</b>
 </p>
 
 ---
@@ -142,8 +142,8 @@ One engineer, whole product. On a typical project I own the Django or FastAPI ba
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 $1M+ ARR, 90% of it my code</h3>
-      At <b>PyjamaHR</b> I built an end-to-end AI recruitment agency: resume reading, ranking against the job description, and the pipeline around it. It passed <b>$1M in annual recurring revenue</b>.
+      <h3>💰 Core engineer on a $1M+ ARR product</h3>
+      At <b>PyjamaHR</b> I wrote about 90% of an end-to-end AI recruitment agency: resume reading, ranking against the job description, and the pipeline around it. It passed <b>$1M in annual recurring revenue</b>.
     </td>
     <td width="50%" valign="top">
       <h3>📉 $7,000 a month → $850</h3>
