@@ -84,16 +84,16 @@ I build AI products end to end and ship them alone at the pace of a team. Seven 
 <td align="center" valign="top" width="110"><img src="https://img.logo.dev/posthog.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="PostHog" /><br /><sub><b>PostHog</b></sub><br /><sub>analytics</sub></td>
 </tr></table>
 
-<p align="center"><sub>Logos by <a href="https://logo.dev">Logo.dev</a></sub></p>
 
 ---
 
 ## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/suhas-r-11723714a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suhasrdev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table align="center"><tr>
+<td align="center" valign="top" width="140"><a href="https://www.linkedin.com/in/suhas-r-11723714a"><img src="https://img.logo.dev/linkedin.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="LinkedIn" /></a><br /><sub><b><a href="https://www.linkedin.com/in/suhas-r-11723714a">LinkedIn</a></b></sub><br /><sub>suhas-r-11723714a</sub></td>
+<td align="center" valign="top" width="140"><a href="mailto:suhasrdev@gmail.com"><img src="https://img.logo.dev/gmail.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="Email" /></a><br /><sub><b><a href="mailto:suhasrdev@gmail.com">Email</a></b></sub><br /><sub>suhasrdev@gmail.com</sub></td>
+<td align="center" valign="top" width="140"><a href="https://github.com/suhasTeju"><img src="https://img.logo.dev/github.com?token=pk_Vr5RPMgvSL2UiZv1-pLdYg&size=96&format=png&retina=true" width="44" height="44" alt="GitHub" /></a><br /><sub><b><a href="https://github.com/suhasTeju">GitHub</a></b></sub><br /><sub>suhasTeju</sub></td>
+</tr></table>
 
 ---
 
