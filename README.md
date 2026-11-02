@@ -1,81 +1,57 @@
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&width=700&lines=Hi%2C+I'm+Suhas+%F0%9F%91%8B;Full-stack+developer+%7C+AI+Engineer;Building+scalable+and+intelligent+systems+since+2019!" alt="Typing SVG">
-</p>
-
----
-
-## About Me
-🚀 I'm a passionate **Full-stack Developer & AI Engineer** with over **4.5 years of experience** building **scalable web platforms and intelligent AI-driven systems**.
-
-I specialize in combining **robust backend engineering** with **modern AI architectures** — from **LLM-powered agents** to **RAG pipelines and knowledge graphs**.
-
----
-
-## 💻 Tech Stack (Modern & AI-First)
-
-### 🧠 AI / ML / LLM Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20Claude%20%7C%20OpenAI-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-Embeddings%20%7C%20Vector%20Search-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agents-Autonomous%20AI-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Voice-STT%20%7C%20TTS-purple?style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=39FF14&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Suhas;I+build+AI+products+end+to+end;One+engineer%2C+whole+product;Fine-tuned+small+models+beat+big+API+bills" alt="Suhas R" />
 </p>
 
-- LLM-powered **AI Agents & Assistants**
-- **Retrieval-Augmented Generation (RAG)**
-- Embeddings, semantic & hybrid search
-- Model fine-tuning & prompt engineering
-- Knowledge Graph–assisted reasoning
-
----
-
-### 🌐 Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,graphql" />
+  <img src="https://img.shields.io/badge/experience-7%20years-39FF14?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/shipped-%241M%2B%20ARR%20product-39FF14?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/LLM%20cost-%E2%88%9290%25-39FF14?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/led-12%20engineers-39FF14?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/Bangalore-India-39FF14?style=flat-square&labelColor=000" />
 </p>
-
-- Django & FastAPI for scalable APIs
-- Agent orchestration & async workflows
-- Secure, production-ready backend systems
 
 ---
 
-### 🖥️ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,vue,html,css" />
-</p>
+## About me
 
-- AI-powered dashboards & tools
-- Interactive PDF & document systems
-- Modern component-driven UI architecture
+I build AI products end to end and ship them alone at the pace of a team. Seven years as a software engineer, the last few building LLM systems that run in production: agents with tool use, retrieval over large document sets, real-time voice, and small fine-tuned models that replace expensive large ones. Backend, frontend, native iOS and the cloud underneath are all mine.
 
 ---
 
-### 📚 Data, Search & Knowledge
-<p align="center">
-  <img src="https://img.shields.io/badge/Vector%20DBs-FAISS%20%7C%20Pinecone%20%7C%20Chroma-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Knowledge%20Graphs-Graph%20Reasoning-orange?style=flat-square" />
-</p>
+## Outcomes
 
-- Vector databases & similarity search
-- Knowledge graphs for structured reasoning
-- Document ingestion & chunking pipelines
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 $1M+ ARR, 90% of it my code</h3>
+      At <b>PyjamaHR</b> I built an end-to-end AI recruitment agency: resume reading, ranking against the job description, and the pipeline around it. It passed <b>$1M in annual recurring revenue</b>.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📉 $7,000 a month → $850</h3>
+      The same product read and rated <b>100,000+ resumes a day</b> through a large language model. I fine-tuned a <b>0.8B-parameter model</b> to do the OCR and the rating itself. Same ratings, 90% cheaper. The $850 left was GPU only.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 Led 12 engineers</h3>
+      Ran a team of twelve at an earlier company, shipping products for clients from VFX studios to automotive brands.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ Built for real clients</h3>
+      VFX tooling platform for <b>Netflix and Amazon</b> vendors · Automotive benchmarking SaaS · <b>Plum Goodness</b> e-commerce · Zoo management system for the <b>Government of Karnataka</b> · Finalist, <b>Airbus Aerothon 2.0</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ☁️ Cloud, DevOps & Tooling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git" />
-</p>
+## How I work
 
-- Cloud-native deployments (AWS / Azure)
-- Containerized AI & backend services
-- CI/CD & production monitoring
+One engineer, whole product. On a typical project I own the Django or FastAPI backend, the Next.js frontend, a native SwiftUI app, payments, analytics, deploys and on-call. AI agents handle support, monitoring and code review so the hours go into product. I reach for a fine-tuned small model before a big API bill, and for a generated asset before a hired one.
 
 ---
 
-## 🧩 Open Source Contributions
+## Open source
 
 ### 📦 pdfjs-reader-core
 
@@ -84,93 +60,56 @@ I specialize in combining **robust backend engineering** with **modern AI archit
 [![GitHub stars](https://img.shields.io/github/stars/suhasTeju/pdf-reader-js?style=flat-square)](https://github.com/suhasTeju/pdf-reader-js/stargazers)
 [![License](https://img.shields.io/github/license/suhasTeju/pdf-reader-js?style=flat-square)](https://github.com/suhasTeju/pdf-reader-js/blob/main/LICENSE)
 
-🔗 **NPM**: https://www.npmjs.com/package/pdfjs-reader-core  
-🔗 **GitHub**: https://github.com/suhasTeju/pdf-reader-js  
+A PDF reading and parsing library on top of PDF.js: canvas rendering, text extraction, programmatic highlights and annotations, full-text search, usable from React, Vue or plain JS. Built because every document viewer and annotation tool I made started with the same plumbing.
 
-An open-source **core PDF reading and parsing library** built on top of **PDF.js**, designed to abstract low-level PDF handling into a clean, reusable, production-ready API.
-
-### Highlights
-- ✅ Production-grade canvas rendering & text extraction (powered by PDF.js)
-- ✅ Custom APIs for programmatic annotations, highlights, and full-text search
-- ✅ Framework-agnostic core (React / Vue / Vanilla JS / headless usage)
-- ✅ End-to-end demo included (Next.js viewer + reusable API examples)
-
-### Why it matters
-`pdfjs-reader-core` removes repetitive PDF plumbing so developers can focus on building features like document viewers, annotation systems, search, and AI-powered workflows without reinventing PDF infrastructure.
-
-### Quick install
 ```bash
 npm install pdfjs-reader-core
-# or
-pnpm add pdfjs-reader-core
 ```
----
-
-## 🤖 AI, Agents & Intelligent Systems
-
-### 🧠 AI & Autonomous Agents
-- Built **task-oriented AI agents** with planning & tool usage
-- Multi-step reasoning agents for automation & workflows
-- API, database & service-integrated agent systems
-
-### 🗣️ Voice Agents
-- Voice-based agents using **STT + TTS pipelines**
-- Optimized for **low latency & natural conversations**
-- Used in learning platforms and assistants
-
-### 📚 RAG Systems
-- End-to-end **RAG pipelines** for PDFs & structured content
-- Advanced chunking, retrieval & ranking strategies
-- Cost-optimized and accuracy-focused implementations
-
-### 🧬 Knowledge Graphs & Fine-Tuning
-- Knowledge graph–assisted AI reasoning
-- Domain-specific model fine-tuning
-- Improved grounding, explainability & reliability
 
 ---
 
-## 🌟 Highlights of My Journey
+## Side projects
 
-### 🔑 Key Projects
-- 🧑‍💼 **Applicant Tracking System (PyjamaHR)**  
-- 🌐 **Plum Goodness E-commerce Platform**
-- 🐾 **Zoo Management System (Govt. of Karnataka)**
-- 🎥 **VFX Tooling Platform (Netflix & Amazon vendors)**
-- 🚗 **Automotive Benchmarking SaaS Tools**
-
-### 🏆 Achievements
-- Finalist – **Airbus Aerothon 2.0**
-- Certified in **Python, Django, React, Vue, AWS**, and more
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗣️ <a href="https://svaravoiceai.com">Svara</a></h3>
+      A voice receptionist for Indian clinics that answers calls in Kannada, Hindi, Tamil, Telugu and English. Deepgram voice agent, Sarvam speech, Next.js. Landing page to working demo in 24 hours.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔀 <a href="https://github.com/suhasTeju/muxaris-site">muxaris</a></h3>
+      A role-based LLM gateway that routes each kind of request to the cheapest model that does the job well.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔧 Skills Snapshot
+## Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasTeju&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,swift,django,fastapi,nodejs,react,nextjs,tailwind,postgres,redis,aws,gcp,azure,docker,git&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Anthropic%20%7C%20Bedrock-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Qdrant%20%7C%20Cohere%20rerank%20%7C%20LightRAG-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Voice-Deepgram%20%7C%20Sarvam%20%7C%20ElevenLabs-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fine--tuning-small%20models%20in%20prod-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dev-Claude%20Code%20%7C%20Codex-orange?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasTeju&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 💬 Fun Facts
-- Coding is my default mode 😄  
-- I recharge with swimming 🏊
-
----
-
-## 🌐 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/suhas-r-11723714a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suhasrdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/suhasTeju">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## Contact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="300" />
+  <a href="https://www.linkedin.com/in/suhas-r-11723714a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suhasrdev@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center">Away from the keyboard, I swim.</p>
