@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=39FF14&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Suhas;I+build+AI+products+end+to+end;One+engineer%2C+whole+product;Fine-tuned+small+models+beat+big+API+bills" alt="Suhas R" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Suhas;I+build+AI+products+end+to+end;One+engineer%2C+whole+product;Fine-tuned+small+models+beat+big+API+bills" alt="Suhas R" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/experience-7%20years-39FF14?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/shipped-%241M%2B%20ARR%20product-39FF14?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/LLM%20cost-%E2%88%9290%25-39FF14?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/led-12%20engineers-39FF14?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/Bangalore-India-39FF14?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/experience-7%20years-238636?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/shipped-%241M%2B%20ARR%20product-238636?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/LLM%20cost-%E2%88%9290%25-238636?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/led-12%20engineers-238636?style=for-the-badge&labelColor=30363d" />
+  <img src="https://img.shields.io/badge/Bangalore-India-238636?style=for-the-badge&labelColor=30363d" />
 </p>
 
 ---
