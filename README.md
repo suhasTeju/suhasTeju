@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/experience-7%20years-238636?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/shipped-%241M%2B%20ARR%20product-238636?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/LLM%20cost-%E2%88%9290%25-238636?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/led-12%20engineers-238636?style=for-the-badge&labelColor=30363d" />
-  <img src="https://img.shields.io/badge/Bangalore-India-238636?style=for-the-badge&labelColor=30363d" />
+  <b>7 years building software</b> &nbsp;·&nbsp; <b>Built a $1M+ ARR AI product</b> &nbsp;·&nbsp; <b>Cut an LLM bill by 90%</b> &nbsp;·&nbsp; <b>Led 12 engineers</b>
 </p>
 
 ---
